@@ -6,12 +6,31 @@ export default {
 		colors: {
 			transparent: 'transparent',
 			current: 'currentColor',
-			'color1': '#F20587',
-			'color2': '#F205CB',
-			'color3': '#63038C',
-			'color4': '#2D0140',
-			'color5': '#010326'
+			'color0': '#FBF5EF',
+			'color1': '#F2D3AB',
+			'color2': '#C69FA5',
+			'color3': '#8B6D9C',
+			'color4': '#494D7E',
+			'color5': '#272744'
     }
 	},
 	plugins: [],
 }
+
+
+/**
+
+'color0': '#411D31',
+'color1': '#631B34',
+'color2': '#30E1B9',
+'color3': '#0EAF9B',
+'color4': '#0B8A8F',
+'color5': '#32535F'
+
+'color0': '#FBF5EF',
+'color1': '#F2D3AB',
+'color2': '#C69FA5',
+'color3': '#8B6D9C',
+'color4': '#494D7E',
+'color5': '#272744'
+**/
